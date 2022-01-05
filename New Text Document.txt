@@ -1,0 +1,1471 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+'Hitman Nosteam'/
+ IBA_IOAPDATA/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TM.blf
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'New folder'/
+ OneDrive/
+ PrintHood@
+ PycharmProjects/
+'Python Code.ipynb'
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Untitled.ipynb
+ Untitled1.ipynb
+ Untitled2.ipynb
+ Untitled3.ipynb
+ Videos/
+ anaconda3/
+ ansel/
+ eclipse/
+ eclipse-workspace/
+ jupyter
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ scikit_learn_data/
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ cd Downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$ ls
+ls-la
+
+
+cd 'GIT ZEMOS'(ASCE)TE.1943-5436.0000382.pdf'
+'(orginalP - mp4) Death+Note+Episode+1'
+ 0189D677-5E78-4785-AADE-819533E2F79B.jpeg
+ 031E490D-81AA-493D-A5E3-FE7D0A480C7B.jpeg
+ 071CFA54-39CC-4D84-89F4-EF238CBA073D.jpg
+ 08A05775-3489-47BD-9C87-538E74C3C306.jpg
+'1 monthprepplan.docx'
+'1 monthprepplan.jpg'/
+'1 monthprepplan.jpg.zip'
+'1-INtroduction to OOPS.wmv'
+ 1-s2.0-S1877042811010056-main.pdf
+ 1-s2.0-S2352146516307396-main.pdf
+'1. Deflection of Curved Members.pdf'
+"10. Prim's Minimum Cost Spanning Tree.mp4"
+'10. Shear Centre of Thin-Walled Beams.pdf'
+'1155-1-1121-1-10-20141013 1.pdf'
+ 1155-1-1121-1-10-20141013.pdf
+ 1292603.jpg
+'13a97cce935078dcd4c25143fb4da30e (1).doc'
+ 13a97cce935078dcd4c25143fb4da30e.doc
+'1574312610792_BANK VOTER20191121_10403574.jpg'
+ 1600x960_166116-pvnr-expressway.jpg
+'1633BC3D-EE58-45D1-95AD-C380B713DA85 (1).JPEG'
+ 1633BC3D-EE58-45D1-95AD-C380B713DA85.jpeg
+ 183114375_514421366359373_7399404398272305200_n.jpg
+ 183163139_965230840915704_2207515622498326169_n.jpg
+ 183242991_168176525211896_9100521880998044728_n.jpg
+ 183270191_477126526827760_4262279478808012582_n.jpg
+ 183277830_562157664764823_8490208559016942574_n.jpg
+ 186068-pvnr-expressway.jpg
+'2. Elastic Property (Flexural Rigidity) of Beams.pdf'
+'2017-Railway Reservation'/
+'2017-Railway Reservation.zip'
+ 2017-Slot-1-cat-question-paper-2IIM.pdf
+'20180041 Ashish K CE-1.pdf'
+'20180041 Ashish K concrete lab Assign.-3.pdf'
+'20180041_10th Certificate.pdf'
+'20180041_12th Certificate.pdf'
+ 20180041_AM15101.pdf
+'20180041_ASHISH K (1) (1) (1).pdf'
+'20180041_ASHISH K (1) (1).docx'
+'20180041_ASHISH K (1) (1).pdf'
+'20180041_ASHISH K (1).pdf'
+'20180041_ASHISH K (2).pdf'
+'20180041_ASHISH K (3).pdf'
+'20180041_ASHISH K (4).pdf'
+'20180041_ASHISH K (5).pdf'
+'20180041_ASHISH K (6).pdf'
+'20180041_ASHISH K (7).pdf'
+'20180041_ASHISH K (8).pdf'
+'20180041_ASHISH K (9).pdf'
+'20180041_ASHISH K.pdf'
+'20180041_Ashish K (10).pdf'
+ 20180041_CE15102.pdf
+ 20180041_CE16201_CE1.pdf
+ 20180041_CE17201_CE1.pdf
+'20181085(Aman kumar) concrete lab Assign.-3.pdf'
+ 20183095_833.pdf
+'2020.10.20 Practical Class-11, CE1; Structural Analysis-II Lab (AM-15201).mp4'
+'2021 FTE - Associate Member of Technical Staff  (1).pdf'
+'2021 FTE - Associate Member of Technical Staff .pdf'
+ 2040.pdf
+ 21063097.pdf
+ 21063097_CAT211S1D3142E1.html
+ 21063097_CAT211S1D3142E1_files/
+ 2112.pdf
+ 2115.pdf
+ 2116.pdf
+ 2198.pdf
+ 2261C744-F037-4C37-9F5D-5EB5F90612B2.jpg
+'26 OCT SLOT 1 & 2 Analysis.pdf'
+'3. Maxwells Reciprocal Theorem.pdf'
+ 30B21E7F-568A-4851-9793-7B8C670C373B.jpeg
+ 316D00FE-13A7-4CA8-9333-899FF5F07672.jpg
+'344B51D8-BB64-4D56-9DEE-EE497FB34A5D-converted (1).pdf'
+ 344B51D8-BB64-4D56-9DEE-EE497FB34A5D-converted.pdf
+ 344B51D8-BB64-4D56-9DEE-EE497FB34A5D.jpg
+ 36977-Difference-Flexible-and-Rigid-Pavements.jpg
+'4. Carry Over Factor.pdf'
+ 4674146-Get-It-Done-Quote-STAY.jpg
+'5. Influence Line for Horizontal Thrust in Two Hinged Arch.pdf'
+ 55304hd.png
+ 5_6206381979290567061.pdf
+ 5_6210702810879623502.pdf
+ 5_6210702810879623503.pdf
+ 5_6239997794963161903.pdf
+ 5_6294107283311821853.xlsx
+ 5_6318797521288167584.pdf
+ 5thSem_TimeTable.pdf
+'6. Pinned Joint with Redundant Member.pdf'
+ 61697102-FA61-4457-8CBE-DFABF8BEB398.jpg
+'7. Analysis of Elastically Coupled Beams.pdf'
+'7. Calculation of Theoretical Forces in Suspension Bars in Elastically Coupled Beam Experiment.pdf'
+ 74CE3E0F-38B0-4839-A69E-01A719CF54BA.jpeg
+'7th sem Dean Academic _ MNNIT Allahabad.pdf'
+'7th sem Dean Academics, MNNIT Allahabad.pdf'
+'7th sem Registration Forms.pdf'
+'8. Influence Line for Horizontal Thrust in Three Hinged Arch.pdf'
+'8397 8832 669.pdf'
+ 8670CBA9-676A-4E84-8BB7-CED280B5CFD8.jpg
+ 899.png
+'9. Unsymmetric Bending of Beams.pdf'
+ 9772150f-f219-4b08-a008-d6868c7940c9.jpg
+'A75D87EC-F623-470B-B223-601142874F2C (1).jpeg'
+'A75D87EC-F623-470B-B223-601142874F2C (1)_11zon.jpg'
+ A75D87EC-F623-470B-B223-601142874F2C.jpeg
+ ACTIVITY_1_TRAVERSE_ADJUSTMENT.pdf
+'AJEET KUMAR_20171087_Civil Engineering (1).pdf'
+'AJEET KUMAR_20171087_Civil Engineering.pdf'
+'ALIFIYA KHUZEMA HUSSAIN_20170048_Biotechnology.pdf'
+'ANURAG_20171021_Steel Lab 1.pdf'
+'ASHISH K 20180041 CE-1 (5).pdf'
+'ASHISH K_20180041_CE-1_Steel Lab 1.pdf'
+'AadhaarSeedingTemplate (1).csv'
+ AadhaarSeedingTemplate.csv
+'Abhishek Kumar, 20181018, ce1.pdf'
+'Acad Cal .pdf'
+'Acad Cal.pdf'
+ AccountSummary26-04-2020.pdf
+ Act-4_contour_100_20181005.rar
+ Act-4_hillshade_20181005.rar
+'Act-5_Map Layout-1_201810041.pdf'
+'Act-5_Map Layout-2_20180041.pdf'
+'Activity 1-converted-merged.pdf'
+'Activity 1-converted.pdf'
+'Activity 1.pptx'
+ Activity-6/
+ Activity-6.zip
+'Activity_5 (1).zip'
+ Activity_5.zip
+ Actor_01/
+ Actor_02/
+ Actor_03/
+ Actor_04/
+ Actor_05/
+ Actor_06/
+ Actor_07/
+ Actor_08/
+ Actor_09/
+ Actor_10/
+ Actor_11/
+ Actor_12/
+ Actor_13/
+ Actor_14/
+ Actor_15/
+ Actor_16/
+ Actor_17/
+ Actor_18/
+ Actor_19/
+ Actor_20/
+ Actor_21/
+ Actor_22/
+ Actor_23/
+ Actor_24/
+ AdmissionCard-598978-5af3275e-6487-4165-bf36-5f5a64acd977-742.pdf
+'Adobe Scan Dec 07, 2020 (2).pdf'
+'Air Ticket 12_08_2020.pdf'
+'Alankriti Dubey_20181026(HA-I).pdf'
+'Allotment Order.pdf'
+ Amarjyot.xlsx
+ Anaconda3-2020.11-Windows-x86_64.exe*
+ Anaconda3-2021.05-Windows-x86_64.exe*
+ Ananta.pdf
+'Anitha CoWIN Appointment.pdf'
+ AnyDesk.exe*
+ Arches.pdf
+'Arun Sharma Formula Book by Unacademy.pdf'
+'Ashish K ( Activity - 6 ).pdf'
+'Ashish K 20180041 (1).pdf'
+'Ashish K 20180041 (1).rar'
+'Ashish K 20180041 (2).pdf'
+'Ashish K 20180041 (3) (1).pdf'
+'Ashish K 20180041 (3).pdf'
+'Ashish K 20180041 .pdf'
+'Ashish K 20180041 CE-1 (1).pdf'
+'Ashish K 20180041 CE-1 (2).pdf'
+'Ashish K 20180041 CE-1 (4) (1).pdf'
+'Ashish K 20180041 CE-1 (4) (2).pdf'
+'Ashish K 20180041 CE-1 (4).pdf'
+'Ashish K 20180041 CE-1 (6).pdf'
+'Ashish K 20180041 CE-1 Assignment- one way slab.pdf'
+'Ashish K 20180041 CE-1 Environmental Engineering Lab File.pdf'
+'Ashish K 20180041 CE-1 GeoInformatics tut -3.pdf'
+'Ashish K 20180041 CE-1 Remaining Exp.pdf'
+'Ashish K 20180041 CE-1 Rock Engineering.pdf'
+'Ashish K 20180041 CE-1 SPM.pdf'
+'Ashish K 20180041 CE-1 axially loaded column.pdf'
+'Ashish K 20180041 CE-1.pdf'
+'Ashish K 20180041 CE1 Tut 3 (2).pdf'
+'Ashish K 20180041 CE1 Tut 3.pdf'
+'Ashish K 20180041 Concrete Structures TUT.pdf'
+'Ashish K 20180041 HomeAssignemnt -1 (1).pdf'
+'Ashish K 20180041 HomeAssignemnt -1.pdf'
+'Ashish K 20180041 ce1  geotech tutorial 3.pdf'
+'Ashish K 20180041.pdf'
+'Ashish K 20180041.rar'
+'Ashish K CE-1 20180041 FM Assignment 3  (1).pdf'
+'Ashish K CE-1 20180041 FM Assignment 3  (2).pdf'
+'Ashish K CE-1 20180041 FM Assignment 3 .pdf'
+'Ashish K CE1 Assignment 4 (1).pdf'
+'Ashish K CE1 Assignment 4 (2).pdf'
+'Ashish K CE1 Assignment 4.pdf'
+'Ashish K Ce1 20180041 Geoinformatics Assignment 1  (1) (1).pdf'
+'Ashish K Ce1 20180041 Geoinformatics Assignment 1  (1).pdf'
+'Ashish K Ce1 20180041 Geoinformatics Assignment 1 .pdf'
+'Ashish K Geoinformatics 20180041 ce1.pdf'
+'Ashish K Geotech Lab 20180041 CE-1 (1).pdf'
+'Ashish K Geotech Lab 20180041 CE-1 (2).pdf'
+'Ashish K Geotech Lab 20180041 CE-1.pdf'
+'Ashish K Passport Photo (1).jpg'
+'Ashish K Passport Photo.jpg'
+'Ashish K Signature.jpg'
+'Ashish K_20180041_CE-1_CE16205_CAD_LAB 2.rar'
+'Ashish K_20180041_CE1_GeoTech Lab  (1).pdf'
+'Ashish K_20180041_CE1_GeoTech Lab  (2).pdf'
+'Ashish K_20180041_CE1_GeoTech Lab  (3).pdf'
+'Ashish K_20180041_CE1_GeoTech Lab .pdf'
+'Ashish K_CE-1_20180041.pdf'
+'Ashish K_Surveying_Tut 4.pdf'
+'Ashish K_Surveying_Tut_4.pdf'
+'Ashish Kattamuri (1).xlsx'
+'Ashish Kattamuri.xlsx'
+'Ashish k 20180041 CE-1 (3).pdf'
+'Ashish k 20180041_ CE-1.pdf'
+'Ashish k Rock Engineering_20180041_assignment4.pdf'
+'Ashish k.pdf'
+'Ashish k_merged.pdf'
+ Ashish.K_20180041.pdf
+ Ashish.K_20180041_CE-1.pdf
+ AshishK_20180041_CE1.pdf
+'Ashish_K 20180041 - CE1.pdf'
+'Ashish_Kattamuri (1).pdf'
+'Ashish_Kattamuri (10).pdf'
+'Ashish_Kattamuri (11).pdf'
+'Ashish_Kattamuri (12).pdf'
+'Ashish_Kattamuri (13).pdf'
+'Ashish_Kattamuri (14).pdf'
+'Ashish_Kattamuri (15).pdf'
+'Ashish_Kattamuri (16) (1).pdf'
+'Ashish_Kattamuri (16).pdf'
+'Ashish_Kattamuri (17).pdf'
+'Ashish_Kattamuri (18).pdf'
+'Ashish_Kattamuri (19).pdf'
+'Ashish_Kattamuri (2).pdf'
+'Ashish_Kattamuri (3).pdf'
+'Ashish_Kattamuri (4).pdf'
+'Ashish_Kattamuri (5).pdf'
+'Ashish_Kattamuri (6).pdf'
+'Ashish_Kattamuri (7).pdf'
+'Ashish_Kattamuri (8).pdf'
+'Ashish_Kattamuri (9).pdf'
+'Ashish_Kattamuri - Complete.pdf'
+'Ashish_Kattamuri Complete-converted.docx'
+'Ashish_Kattamuri+(11) (1).pdf'
+'Ashish_Kattamuri+(11).pdf'
+'Ashish_Kattamuri+(19).pdf'
+'Ashish_Kattamuri-Complete second.pdf'
+ Ashish_Kattamuri-Complete.pdf
+ Ashish_Kattamuri.pdf
+'Ashish_Kattamuri__Copy_ (1).pdf'
+'Ashish_Kattamuri__Copy_ (2).pdf'
+'Ashish_Kattamuri__Copy_ (3).pdf'
+'Ashish_Kattamuri__Copy_ (4).pdf'
+ Ashish_Kattamuri__Copy_.pdf
+'Ass7,WRE,ASHISH K,20180041,CE-1.pdf'
+'Ass7,WRE,VELUGU SHIRISHA,20181093,CE-3.pdf'
+ Assign01_20180041.pdf
+ Assign02_20180041.pdf
+ Assign03_20180041.pdf
+'Assign04_20180041 (1).pdf'
+ Assign04_20180041.pdf
+'Assign05_20180041 (1).pdf'
+ Assign05_20180041.pdf
+ Assign06_20180041.docx
+ Assign07_20180041.docx
+ Assign6_20180041.pdf
+ Assign6_20181060.pdf
+ Assign7_20180041.pdf
+ Assign7_20181060.pdf
+ Assign9_20180041.pdf
+ Assign9_20181060.pdf
+'Assignment  7_Ashish K_20180041.pdf'
+'Assignment 3.pdf'
+'Assignment 4(II) Ashish K 20180041 CE-1.pdf'
+'Assignment 4_20181026_Alankriti Dubey.pdf'
+'Assignment 7_ASHISH K(20180041).pdf.pdf'
+'Assignment 7_Alankriti Dubey(20181026).pdf.pdf'
+ Assignment-2_20180041.pdf
+ Assignment-2_20181026.pdf
+ Assignment-4.pdf
+ Assignment-6.pdf
+ Assignment-7.pdf
+ Assignment1_Alankriti_Dubey.pdf
+ Assignment2_20181026.pdf
+'Assignment3_Alankriti Dubey_20181026.pdf'
+'Assignment3_Ashish K_20180041.pdf'
+'Averages, Mixtures and Alligation Formulas - Non-engineers (1).pdf'
+'Averages, Mixtures and Alligation Formulas - Non-engineers.pdf'
+'B.Tech 7 Sem.pdf'
+ B.Tech._Six_Semester_Revised.pdf
+ BAFC3D34-AE0E-4555-A809-B5DE4E0E0C3F.jpeg
+ BEFA_Lecture_Notes__all_units.pdf
+'Barath Dandu Resume SE.pdf'
+ Biotech.xlsx
+'Blood  Relations.pptx'
+'Bmct tut 1-2.pdf'
+ BoardingPass.pdf
+'Building Brand Architecture Report (1) (1).pdf'
+'Building Brand Architecture Report (1).pdf'
+'Building Brand Architecture Report.pdf'
+'Building Construction - B.C. Punmia; Ashok Kumar Jain; Arun Kumar Jain - Google Books.html'
+'Building Construction - B.C. Punmia; Ashok Kumar Jain; Arun Kumar Jain - Google Books_files'/
+'Building Materials Notes_1 (1).pdf'
+'Building Materials Notes_1.pdf'
+'Building Materials Notes_2 (1).pdf'
+'Building Materials Notes_2.pdf'
+'C++ - Cafe Order Checker (Practice Interview Question) _ Interview Cake.html'
+'C1_Practical Assigned.pdf'
+ CADLAB_SATYAM_PANDEY_20181038_QUESTION_1_TO_10-1.zip
+'CAS-application 2016 (1) (1).doc'
+'CAS-application 2016 (1).doc'
+'CAS-application 2016 final with odd years latest .doc'
+'CAT TIME.zip'
+'CAT key and response Sheet.pdf'
+ CAT-2017-Slot-1-DILR-2IIM-With-Video-Solutions.pdf
+ CAT-2017-Slot-1-VARC-2IIM-With-Text-Solutions.pdf
+ CAT-2017-Slot-1-quants-2IIM-With-Video-Solutions.pdf
+ CB56515B-4713-4145-9678-F938DA435B99.jpg
+'CE 15104 Tuesday Lecture 18.8.2020.mp4'
+'CE-16104-20181017(TUTORIAL-2).pdf'
+ CE1505.pdf
+'CE1_Ashish K (20180041)_ExP No. 6-10.docx'
+ COUNT-PEOPLE-VER2.0-master/
+ COUNT-PEOPLE-VER2.0-master.zip
+'COVID-19 Detector CNN - Colaboratory_files'/
+'CRICKET19_final_fix By india games.rar'
+'CamScanner 03-18-2021 11.12.51.pdf'
+'CamScanner 05-10-2020 10.32.09_1.pdf'
+'CamScanner 05-10-2020 10.55.44_1 (1).jpg'
+'CamScanner 11-16-2020 13.08.21 (1).pdf'
+'CamScanner 11-16-2020 13.08.21 (2).pdf'
+'CamScanner 11-16-2020 13.08.21 (3).pdf'
+'CamScanner 11-16-2020 13.08.21 (4).pdf'
+'CamScanner 11-16-2020 13.08.21 (5).pdf'
+'CamScanner 11-16-2020 13.08.21.pdf'
+ CandidateHallTicket.pdf
+'Capgemini tech+hr.pdf'
+'Case in Point 9_ Complete Case Interview Preparation ( PDFDrive.com ).pdf'
+ Case_History.pdf
+'Causes of breaking of water seal.pdf'
+ Cavitation.pdf
+'Citi Corp.pdf'
+'Civil 2k22 Project Members.pdf'
+ Civil_Engineering.pdf
+'CoWIN Appointment.pdf'
+'Code with Mosh - Complete SQL Mastery 2019-5-20210212T140552Z-007.zip'
+ Cognizant-Autometa.pdf
+'Con-str II-lab-Assig-1 Aditya Raj 20181008.pdf'
+'Con-str II-lab-Assig-1 Ashish K 20180041 (1).pdf'
+'Con-str II-lab-Assig-1 Ashish K 20180041.pdf'
+'Concrete Structure(20181017 - Assignment 1) (1).pdf'
+'Concrete Structure(20181017 - Assignment 1).pdf'
+'Concrete Structures T Beam Ashish K CE-1 20180041.pdf'
+'Conveyance II_8.8.pdf'
+'Coordinate Geometry Formulas - Non-engineers (1).pdf'
+'Coordinate Geometry Formulas - Non-engineers.pdf'
+'Copy of 638742-TIHANM.part01.rar'
+'Copy of 638742-TIHANM.part03.rar'
+'Copy of 638742-TIHANM.part07.rar'
+'Copy of 638742-TIHANM.part08.rar'
+'Copy of 638742-TIHANM.part09.rar'
+'Copy of 638742-TIHANM.part13.rar'
+'Copy of 638742-TIHANM.part14.rar'
+'Copy of COVID-19 Detector'
+'Copy of Disjoint Set Theroy.html'
+'Copy of dp-1.wmv'
+ Course_Feedback-main/
+ Course_Feedback-main.zip
+ Covi19
+ CovidDataset-20200427T133042Z-001.zip
+ Covid_detection_CNN-master.zip
+ Cracku-CAT-ScoreCard.png
+ Cricket.19.v1300-Repack.torrent
+ D46561E2-18BC-4BB3-A859-F74F2898D883.jpg
+ DBMS-20210419T050908Z-017.zip
+'DC onewayslab.pdf'
+'DCS4 (1).pdf'
+ DCS4.pdf
+ DDF6F081-A441-4A7E-9A62-C0E53628D0D3.jpeg
+'DESIGN RIVER INTAKE TOWER.pdf'
+ DSCORES.DAV
+ DSC_0725.JPG
+ DSC_0727.JPG
+ DSC_0789.JPG
+'DT20218057470_Application (1).pdf'
+ DT20218057470_Application.pdf
+'Data_collection_pattern (1).xlsx'
+ Data_collection_pattern.xlsx
+'Dean Academic _ MNNIT Allahabad 5 th sem.pdf'
+'Dean Academic _ MNNIT Allahabad- sem 8.pdf'
+'Dean Academic _ MNNIT Allahabad.html'
+'Dean Academic _ MNNIT Allahabad.pdf'
+'Dean Academic _ MNNIT Allahabad_files'/
+'Dean Academics, MNNIT Allahabad 5th sem.pdf'
+'Dean Academics, MNNIT Allahabad.pdf'
+'Delloite Internship'/
+'Delloite Internship.zip'
+'Deloitte (1).pdf'
+'Deloitte (2).pdf'
+'Deloitte Certificate.pdf'
+ Deloitte.pdf
+'Design of Pumping Station.pdf'
+'Design of River intake.pdf'
+'Dev-Cpp 5.11 TDM-GCC 4.9.2 Setup.exe'*
+'Diabetes Detection System.CPP'
+'Digitization Errors and Map Layout-converted.pdf'
+'Digitization Errors and Map Layout.pptx'
+'Docscanner 03 Oct 2020 12.01 PM.pdf'
+'Docscanner 11 Dec 2020 7.29 AM 1 (1) (1).pdf'
+'Docscanner 11 Dec 2020 7.29 AM 1 (1).pdf'
+'Docscanner 11 Dec 2020 7.29 AM 1.pdf'
+'Docscanner 11 Dec 2020 7.50 AM (1).pdf'
+'Docscanner 11 Dec 2020 7.50 AM.pdf'
+'Docscanner 20 Jul 2020 8.14 AM.pdf'
+'Docscanner 25 Nov 2020 10.56 AM.pdf'
+ Documents/
+ Donation_2100016005.pdf
+ Download+DR2+zip-AP39cmBpYwQAvhwCAElOFwASAPnhnMcA.zip
+'Ductility Test.pdf'
+ E4CAACE3-9C58-4FC8-BF3D-5DCDFDB6A8D0.jpeg
+'EE A1 Aditya kumar 20181095.pdf'
+'EE Lab Experiment-1.pdf'
+'EE Lab Experiment-10.pdf'
+'EE Lab Experiment-2.pdf'
+'EE Lab Experiment-3.pdf'
+'EE Lab Experiment-4.pdf'
+'EE Lab Experiment-5.pdf'
+'EE Lab Experiment-6.pdf'
+'EE Lab Experiment-7.pdf'
+'EE Lab Experiment-8.pdf'
+'EE Lab Experiment-9.pdf'
+'EHF_Card (1).pdf'
+ EHF_Card.pdf
+'ENVIRONMENTAL ENGINEERING – I (CE-15104).pdf'
+ EPassbook.jpg
+'End Sem Viva Groups, Timing and Allotted Experiments-CE3.pdf'
+'Environmental PDFs'/
+'Environmental Protection and Role of Judiciary in India.docx'
+'Epic Games Account Two-Factor backup codes.txt'
+ EpicInstaller-10.15.2-27cf10f17daf4bfd8925a85243512ee3.msi
+ EpicInstaller-10.18.8-92dc1909d3cc4a87b9b41ad5b650c4c8.msi
+ EpicInstaller-12.1.7-9d27e7646946485f97408375200bb107.msi
+ Estimation_of_road_capacity_and_free_flow_speed_for_urban_roads_under_adverse_weather_conditions.pdf
+'Exp.-10_Shear Centre of Thin Walled Beams_A. Bhar.mp4'
+ F1B5FE46-2AD9-4CA3-A766-BF5EFC9F4DDC.jpg
+ F1FA-18.exe*
+ F1FA-19.exe*
+'FF PLAN.pdf'
+ FINAL450.xlsx
+'FM Assignment_3 Kaveti Maruthi Abhiram.pdf'
+'FM assignment-2 Ashish K CE-1 (1).pdf'
+'FM2 Assignment 5  (1).pdf'
+'FM2 Assignment 5  (2).pdf'
+'FM2 Assignment 5 .pdf'
+'FM2_assignment_4__ Kaveti Maruthi Abhiram.pdf'
+'FORMS OF BUSINESS ORGANISATION.pdf'
+ FSViewerSetup74.exe*
+ FiddlerSetup.exe*
+'Fidelity Investments.pdf'
+ Final_2k19_PDF.pdf
+'Final_Year_Certificate_2021(1).pdf'
+'Fluid Mechanics & Hydraulic Machines By R K Bansal 9 Ed.pdf'
+'Fluid Mechanics 2 (1).pdf'
+'Fluid Practical 5 (Kaplan).pdf'
+'Francis turbine.pdf'
+'Free Swell Index.pdf'
+'Futures First.pdf'
+'GF PLAN.pdf'
+ GIKS5009.pdf
+'GIS tut4 Ashish K 20180041 CE-1 (1).pdf'
+'GIS tut4 Ashish K 20180041 CE-1.pdf'
+'GIS tutorial (1).pdf'
+'GIS tutorial.pdf'
+'GIT ZEMOSO'/
+'GPS Tut 5 Ashish K 20180041 CE-1.pdf'
+'GRE 2019-Education (2018).pdf'
+'GRE Score Card Ashish Kattamuri.pdf'
+ GRID.pdf
+'Gangs of Wasseypur.mkv'
+'GeoTechnical Engineering.pdf'
+'Geometry Formulas - Non-engineers.pdf'
+'Geotech I End Sem 2020_21.pdf'
+ Geotech_Lab_part2.pdf
+'Gidijala uday srinu (1).pdf'
+ Git-2.34.1-64-bit.exe*
+'Gmail - Fwd_ Suspension of in-campus activities, Online Classes and Preponement of Summer Vacation.pdf'
+'Government ID Card.pdf'
+'Grand Masti 2013 Hindi 720p HDRip.mkv'
+ GridAssemble.m
+'Group-5(Activity-3)-20181017_Saurabh_Singh.pdf'
+'Group-5_Activity-5_Aditi Shukla_20181006_CE-1.pdf'
+'Group5 Activity3 Ashish K 20180041 (1).pdf'
+'Group5 Activity3 Ashish K 20180041.pdf'
+'GroupDocs HTML Editor App.html'
+'GroupDocs HTML Editor App_files'/
+'Group_4_Activity-5_Ashish K_20180041_CE-1 (1).pdf'
+'Group_4_Activity-5_Ashish K_20180041_CE-1.pdf'
+'Group_4_Activity_5_Ashish K_20180041-converted.pdf'
+'Group_4_Activity_5_Ashish K_20180041.jpg'
+ Gtech_Exp.pdf
+ HITMAN.exe*
+'HM notes aditi.pdf'
+'Handout II_EEI_Odd 16-17-1.pdf'
+'Highway Construction.pdf'
+ Highway_Engineering_Khanna_and_Justo.pdf
+ Hill_Shading_Theory.pdf
+'Hostel Fee.pdf'
+'Hotel Management System.CPP'
+'How to Prepare for Quantitative Aptitude - Arun Sharma - 6th Edition.pdf'
+ IBALauncher.exe*
+ IMG20210815142028.jpg
+'IMG_0065 (1).jpg'
+ IMG_0065.HEIC
+ IMG_0065.jpg
+ IMG_0071.HEIC
+ IMG_0071.jpg
+ IMG_0090.HEIC
+ IMG_0090.jpg
+ IMG_0093.HEIC
+ IMG_0093.jpg
+ IMG_0130_Original.jpg
+ IMG_0131_Original.jpg
+ IMG_0179.JPG
+ IMG_0374.JPG
+ IMG_0993.JPG
+ IMG_1040.JPG
+ IMG_1066.JPG
+ IMG_1364.HEIC
+ IMG_1364.jpg
+ IMG_20180804_131839.jpg
+'IMG_20180804_131848 (1).jpg'
+ IMG_20180804_131848.jpg
+ IMG_20181104_074802.jpg
+ IMG_20181104_074808.jpg
+ IMG_20200926_150750_Original.jpg
+ IMG_20200926_152916_Original.jpg
+'IMG_20201208_130647 (1).jpg'
+ IMG_20201208_130647.jpg
+ IMG_20210806_142328_Original.jpg
+ IMG_20210806_174936.jpg
+ IMG_2326.HEIC
+ IMG_2328.HEIC
+'IMG_2665 (1).jpg'
+ IMG_2665.jpg
+ IMG_3470.JPG
+ IMG_3471.JPG
+ IMG_3473.JPG
+ IMG_3478.JPG
+'IMG_3479 (1).JPG'
+ IMG_3479.JPG
+ IMG_3619.jpg
+ IMG_3620.jpg
+ IMG_3621.jpg
+ IMG_3622.jpg
+ IMG_3945.jpg
+ IMG_4828.JPG
+ IMG_4915.PNG
+ IMG_4925.PNG
+ IMG_4926.PNG
+ IMG_5216.HEIC
+'IMG_5267 (1).JPG'
+ IMG_5267.JPG
+ IMG_5644.HEIC
+ IMG_5644.jpg
+ IMG_6231.JPG
+ IMG_6236.jpg
+ IMG_6546.JPG
+ IMG_6588.jpg
+ IMG_6630.jpg
+ IMG_6761.jpg
+ IMG_6882.HEIC
+ IMG_6883.HEIC
+ IMG_7116.HEIC
+ IMG_7141.HEIC
+ IMG_7199.HEIC
+ IMG_7199.jpg
+ IMG_7767.HEIC
+ IMG_7931.jpg
+ IMG_9128.jpg
+ IMG_9214.jpg
+ IMG_9216.jpg
+ IMG_9443_Original.jpg
+ IMG_9667.HEIC
+ IMG_9667.jpg
+ IMG_9956.CR2.jpg
+'IRCTC Next Generation eTickdadeting System.pdf'
+'IRCTC Next Generation eTicketing System.pdf'
+'Impact of soybean on the predatory and parasitoid assemblages in cotton when grown as an intercrop.docx'
+'Instructions & Info Regarding Practical Exam_SA-II Lab (AM-15201).pdf'
+'Instructions regarding Viva Exam (Envi. Engg. Lab.).pdf'
+'Interns_Joining_Form (1) (1).xlsx'
+'Interns_Joining_Form (1).xlsx'
+ Interns_Joining_Form.xlsx
+ InterviewCake/
+ Interview_prep_guide.pdf
+'J Hari Karthikeya.zip'
+'J Hari Kartikeya.pdf'
+'JNET  Intern Letter _Ashish Kattamuri.pdf'
+'Jerry (1).pdf'
+'Jerry (2).pdf'
+'Jerry (3).pdf'
+ Jerry.pdf
+ Jerry.zip
+'John Deere.pdf'
+ Kota_factory._2021.S02.E05.srt
+'L&T Material'/
+'L&T Material.zip'
+ Lec-14.pdf
+ Lec-15.pdf
+ Lec-16.pdf
+ Lec-17.pdf
+ Lec-18.pdf
+'Lecture1 (1).pdf'
+'Lecture1 (3).pdf'
+'Lecture3 (1).pdf'
+'Lecture4 (1).pdf'
+'Lecture4 (2).pdf'
+'Lecture5 (1).pdf'
+'Lecture6 (1).pdf'
+ LibCAD_220rc1.pdf
+'Logical and Verbal Reasoning'/
+'Logical and Verbal Reasoning-20200925T174521Z-001.zip'
+'Lyka Case Study.pptx'
+'MNNIT DAA.pdf'
+ MNNIT.png
+ MUSIC_PLAYER_IN_C_.NET_WITH_SOURCE_CODE/
+ MUSIC_PLAYER_IN_C_.NET_WITH_SOURCE_CODE.zip
+'M_ Triangulation _From COER.pdf'
+'M_ Triangulation _From Internet.pdf'
+ M_2019-20_Surveying_Syllabus.pdf
+ Mansi20181100.pdf
+'Map Layout 3 Ashish K.pdf'
+'Marketing Analytics University of Virginia.pdf'
+'Marks of Str & ACM_ Even Semester 2019-20.pdf'
+'Material and Methods.docx'
+'Mini_Project (1).pdf'
+ Mini_Project.pdf
+'Module 5.pdf'
+'Moment Distribution Method.pdf'
+'NIT Allahabad 4th Sem Question Papers (1).pdf'
+'NIT Allahabad 4th Sem Question Papers.pdf'
+'NO TEXT.png'
+'NOTICE FOR STUDENTS FOR END ODD SEMESTER EXAM 2020-21.pdf'
+'NQT2010085579 (1).pdf'
+ NQT2010085579.pdf
+'Name List_V Semester_ Odd Semester-2020-21 (1).xls'
+'Name List_V Semester_ Odd Semester-2020-21.xls'
+'NeoTadd - Profit and Loss Dashboard Revised Requirements.docx'
+'New Doc 09-22-2020 21.26.18.pdf'
+'New Doc 2020-01-10 09.45.55.pdf'
+'New Doc 2020-02-21 22.06.24.pdf'
+'New Doc 2020-02-24 10.11.32 (1).pdf'
+'New Doc 2020-02-24 10.11.32.pdf'
+'New Doc 2020-02-24 23.30.52.pdf'
+'New Doc 2020-03-04 20.38.12.pdf'
+'New Doc 2020-03-04 21.55.06.pdf'
+'New Doc 2021-02-06 10.23.59 (1).pdf'
+'New Doc 2021-02-06 10.23.59.pdf'
+'New Doc 2021-09-29 18.15.45.pdf'
+'New doc 05-Oct-2020 6.17 pm.pdf'
+'New doc 05-Oct-2020 6.20 pm (1).pdf'
+'New doc 05-Oct-2020 6.20 pm.pdf'
+'New doc 26-Sep-2020 9.56 PM.pdf'
+'Notice for revised academic activity (1).pdf'
+'Notice for revised academic activity.pdf'
+'Number  System (2).pptx'
+'OE Allotment.csv'
+'OOPs interview questions Interviewbit.pdf'
+ OSS/
+'Object Oriented Programming (1).pdf'
+ OneDrive_1_11-10-2020.zip
+ OneDrive_1_11-18-2020.zip
+ OneDrive_1_11-20-2020.zip
+ OneDrive_1_11-8-2020.zip
+ OneDrive_1_12-1-2020.zip
+'OneDrive_1_12-3-2020 (1).zip'
+ OneDrive_1_12-3-2020.zip
+ OneDrive_1_12-5-2020.zip
+ OneDrive_1_12-6-2020.zip
+ OneDrive_1_12-7-2020.zip
+ OneDrive_1_8-27-2021.zip
+ OneDrive_2020-11-06.zip
+ OneDrive_2_11-20-2020.zip
+ OneDrive_2_12-3-2020.zip
+ OneDrive_2_12-6-2020.zip
+ OneDrive_3_12-6-2020.zip
+'Online Application Form Filling Procedure Goldman Sachs.pdf'
+ OpTransactionHistoryLstNTxn03-05-2020.pdf
+ OpTransactionHistoryLstNTxn10-05-2020.pdf
+ OpTransactionHistoryLstNTxn22-04-2020.pdf
+'OpTransactionHistoryLstNTxn26-04-2020 (1).pdf'
+ OpTransactionHistoryLstNTxn26-04-2020.pdf
+'Oracle India Pvt. Ltd.pdf'
+ Oracle_Fultime_Slotting_MNNIT.xlsx
+'PAN CARD back.jpeg'
+'PAN CARD front.jpeg'
+'PLANE FRAME.pdf'
+'PLANE TRUSS.pdf'
+'PNG image.png'
+ POM.pdf
+ PS_Softablitz.pdf
+'PULKIT GARG_20171045_Civil Engineering.pdf'
+'PVNR expressway_0.jpg'
+ Passbook.jpg
+'Passport Size Photo.jpg'
+ Pattern.xlsx
+ Pawan-Kalyan-in-Attarintiki-Daredi.jpg
+ Payslip_Sep_2021.pdf
+'Pelton turbine.pdf'
+'Percentages (4).pptx'
+ Placement.xlsx
+ PlaneFrameElementStiffness.m
+'Practical Schedule.pdf'
+'Print Application RS Padmavathy.pdf'
+'ProcDNA Case Study LYKA v1.0.pptx'
+'ProcDNA Case Study LYKA v1.0.zip'
+'ProcDNA Lyka Case Study_data_v1.0 (1).xlsx'
+'ProcDNA Lyka Case Study_data_v1.0 (2).xlsx'
+'ProcDNA Lyka Case Study_data_v1.0.xlsx'
+ ProceedingPrint.pdf
+ Profile.pdf
+'ProfitLoss Target.png'
+ Programs/
+ ProxifierSetup.exe*
+ Qualcomm.pdf
+'R1 _Review-Questions _Photogrammetry.pdf'
+'RCC Lab Assignment-6 (1).pdf'
+'RCC Lab Assignment-6 Ashish K 20180041.pdf'
+'RCC Lab Assignment-6.pdf'
+'RCC tuts'/
+ RDGupta_PPT_GI_Photogrammetry_Part-I.pdf
+ RDGupta_PPT_GI_Remote-Sensing_Part-I.pdf
+ REAGENTS.pdf
+'RES1649789-UMR1151613-CYT213774_MrASHISHK (1).pdf'
+ RES1649789-UMR1151613-CYT213774_MrASHISHK.pdf
+'RESUME (1).pdf'
+ RESUME.pdf
+'Raman Yadav_20181102_Group9.pdf'
+'Reciprocating Pump.pdf'
+'Registration Forms 5th sem.pdf'
+'Registration Forms sem 8.pdf'
+'Registration Forms.html'
+'Registration Forms.pdf'
+'Registration Forms_files'/
+ RegistrationDynamicPrint.pdf
+'Reporton Experiments - 3,SA-IILab(2020-21)_CE1_ABHISHEK KUMAR(20181018).docx'
+'Reporton Experiments - 3,SA-IILab(2020-21)_CE1_ASHISH K(20180041).docx'
+'Reporton Experiments - 3,SA-IILab(2020-21)_CE2_KavetiMaruthiAbhiram(20181060).docx'
+'Reporton Experiments - 4,SA-IILab(2020-21)_CE1_ABHISHEK KUMAR,20181018)..docx'
+'Reporton Experiments - 7,SA-IILab(2020-21)_CE2_KavetiMaruthiAbhiram(20181060).docx'
+ Results.docx
+'Resume Complete IV (2).zip'
+'Resume_Complete_IV (3).pdf'
+'Resume_Complete_IV__Copy___Copy_ (1).pdf'
+ Resume_Complete_IV__Copy___Copy_.pdf
+ Resumes__jLz.zip
+'Revised Calandar (1).pdf'
+'Revised Calandar (2).pdf'
+'Revised Calandar.pdf'
+ Rockstar-Games-Launcher.exe*
+ SAVE_20191017_232426.jpg
+ SHAREit/
+ SHAREit-KCWEB.exe*
+'SOFTWARE TESTING STRATEGIES.pptx'
+'SOP for Practical Examination CS II _ June 2021.pdf'
+'SPM ASS -4 20180041.pdf'
+'SPM Theory.xlsx'
+'SRUJAN REDDY RESUME.pdf'
+ SSEngine-students3k.com/
+ SSEngine-students3k.com.zip
+ STUDENT_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE.zip
+ STUDMGMT.CPP
+'SURVEYING,TUTORIAL -6,VELUGU SHIRISHA ,20181093,CE-3.pdf'
+'Scan 10-Nov-2021 at 6.20 PM.pdf'
+'Scan 19-Aug-2020.pdf'
+'Scan Nov 18, 2020.pdf'
+'Scan Oct 1, 2020.pdf'
+'Scan Oct 15, 2020.pdf'
+'Scan Oct 18, 2020.pdf'
+'Scan Oct 24, 2020 (1).pdf'
+'Scan Oct 31, 2020 (1).pdf'
+'Scan Sep 11, 2020 (1).pdf'
+'Scan Sep 11, 2020.pdf'
+'Scan Sep 27, 2020 (1).pdf'
+'Scan Sep 27, 2020.pdf'
+'Scanned Documents (1).pdf'
+'Scanned Documents.pdf'
+'School Management System Abtract.docx'
+'School Management System Project Source Code.CPP'
+ Screenshot_20201202-165741969.jpg
+ Search-Engine-Project-in-C-/
+ Search-Engine-Project-in-C-.zip
+ SecureExamBrowserInstaller_1.3.4.msi
+'Self Attested E PassBook.pdf'
+'Self Attested EPassbook.jpg'
+'Self Study  proforma  (1).doc'
+'Self Study  proforma .doc'
+'Self Study  proforma .jpg'/
+'Self Study  proforma .jpg.zip'
+'Shivansh Mishra ( Activity - 6 ).pdf'
+ Skype-8.63.0.76.exe*
+'Softening Point.pdf'
+'Software Project Management_Assign05 (1).docx'
+'Software Project Management_Assign05.docx'
+ SoftwareSyllabus.docx.pdf
+'Soil water, Permeability and Seepage.pdf'
+ Solution.pdf
+'SoundPlayer C++ .NET'/
+'Spandana E Pass.pdf'
+'Spandana EPASS G S Padmavathy.pdf'
+'Steel Lab Assig-6 Aditya Raj 20181008 CE-1.pdf'
+'Steel Lab Assig-6 Ashish K 20180041 CE-1 .pdf'
+'Steel assignment 6(20180031).pdf'
+'Structural Analysis-II.pdf'
+'Student Management System Project in C++ (1).docx'
+'Student Management System Project in C++.docx'
+ Support-LogMeInRescue.exe*
+'Survey 20180041 Ashish K (1) (1)-merged.pdf'
+'Survey 20180041 Ashish K (1) (1).pdf'
+'Survey 20180041 Ashish K (1).pdf'
+'Survey 20180041 Ashish K.pdf'
+'Survey Tutorial 4.pdf'
+ Survey_tut_5-I.pdf
+'Suspension Bridges.pdf'
+'Swati 20181055 CE-3 Assignment- one way slab.pdf'
+'TCS Campus Hiring YoP 2021 (1).pdf'
+'TCS NQT 25th Oct 12.30 pm to 3.30 pm Slot Analysis.pdf'
+'TCS official pdf.pdf'
+'TE-2 TUT-1,VELUGU SHIRISHA,20181093,CE-3.pdf'
+'TE-ll,tut-3,Ashish K,20180041,CE-1.pdf'
+'TE-ll,tut-3,VELUGU SHIRISHA,20181093,CE-3.pdf'
+ TEXT-01.png
+'THE HINDU EDITORIAL - 29 JULY 2020.pdf'
+ TRAIN_TICKET_RESERVATION_SYSTEM_IN_C_PROGRAMMING_WITH_SOURCE_CODE/
+ TRAIN_TICKET_RESERVATION_SYSTEM_IN_C_PROGRAMMING_WITH_SOURCE_CODE.zip
+'TS401 SONET PRICE LIST MAY-2021.pdf'
+ TableauDesktop-64bit-2021-1-2.exe*
+ Teams_windows_x64.exe*
+'Tentative Schedule of End (odd) Examination-2019-20 (1).pdf'
+'Tentative Schedule of End (odd) Examination-2019-20.pdf'
+ The-Official-Guide-to-the-GRE-General-Test.pdf
+'Ticket to vizag.pdf'
+'Time & Work with out Answers slides (2).pptx'
+ Topology-Rules-Poster.pdf
+'Transcript (1).pdf'
+ Transcript.jpg
+ Transcript.pdf
+'Transportation Engineering Assignment-2.pdf'
+'Transportation II TUT-1,Ashish K,20180041,CE-1.pdf'
+'Transportation Merged.pdf'
+'Transportation Unit-IV'/
+'Tut 5.pdf'
+'Tut 6.xlsx'
+'Tutorial - 2 (1).xlsx'
+'Tutorial - 2.xlsx'
+'Tutorial - 3.xlsx'
+'Tutorial sheet-II _FM-II_Students.pdf'
+'Tutorial-2 _Remote-Sensing.pdf'
+ UbisoftConnectInstaller.exe*
+'Unconfirmed 361318.crdownload'
+'Unconfirmed 482955.crdownload'*
+'Unconfirmed 88238.crdownload'*
+'Unconfirmed 893828.crdownload'*
+ UnifyRPInstaller_PROD.exe*
+'Unit 4-NDT.pdf'
+'Unit 4-Special Concretes.pdf'
+'Unit 6-Metals & Non-Metals.pdf'
+'University Of California , Davis (1).pdf'
+'University Of California , Davis.pdf'
+'University of Michigan.pdf'
+'Unsymmetrical Bending.pdf'
+'Untitled Document.pdf'
+ Untitled-1.py
+ Untitled.m
+'VELUGU SHIRISHA ,20181093,CE-3,CS ASSIGNMENT 1.pdf'
+ VSCodeUserSetup-x64-1.53.1.exe*
+'Verbal Ability & Reading Comprehension for CAT.pdf'
+ Veritas.pdf
+ Video/
+ Vikram-Vedha_English-ELSUBTITLE.COM-28452186.srt
+'Viva Groups & Timing_SA-II Lab (AM-15201)_B.Tech, 5th Sem (CE)_2020-21.pdf'
+'Vivek Tej Pratap (20181103)_CE16202-pages-deleted (1).pdf'
+'Vivek Tej Pratap (20181103)_CE16202-pages-deleted.pdf'
+'Vivek Tej Pratap (20181103)_CE16202.pdf'
+'WQ Parameters_10.11.pdf'
+ WWE-2K16.exe*
+'WWE.2K16.Incl.All.DLCs.MULTi6-Repack (1).torrent'
+ WWE.2K16.Incl.All.DLCs.MULTi6-Repack.torrent
+'WhatsApp Image 2020-04-22 at 6.08.30 PM.jpeg'
+'WhatsApp Image 2020-04-22 at 6.08.40 PM.jpeg'
+'WhatsApp Image 2020-04-22 at 6.08.43 PM.jpeg'
+'WhatsApp Image 2020-07-11 at 9.06.16 PM.jpeg'
+'WhatsApp Image 2020-07-11 at 9.08.05 PM.jpeg'
+'WhatsApp Image 2020-07-20 at 8.16.57 AM.jpeg'
+'WhatsApp Image 2020-08-27 at 9.00.28 PM.jpeg'
+'WhatsApp Image 2020-09-22 at 5.55.05 PM.jpeg'
+'WhatsApp Image 2020-09-23 at 9.34.25 AM.jpeg'
+'WhatsApp Image 2020-10-05 at 2.15.38 PM.jpeg'
+'WhatsApp Image 2020-11-09 at 5.23.01 PM.jpeg'
+'WhatsApp Image 2020-11-09 at 5.23.02 PM (1).jpeg'
+'WhatsApp Image 2020-11-09 at 5.23.02 PM.jpeg'
+'WhatsApp Image 2020-11-19 at 6.08.00 PM (1).jpeg'
+'WhatsApp Image 2020-11-19 at 6.08.00 PM.jpeg'
+'WhatsApp Image 2020-11-24 at 9.29.35 PM.jpeg'
+'WhatsApp Image 2020-12-01 at 12.30.08 PM.jpeg'
+'WhatsApp Image 2020-12-02 at 8.05.17 PM.jpeg'
+'WhatsApp Image 2021-02-06 at 10.58.57 AM.jpeg'
+'WhatsApp Image 2021-02-12 at 12.16.28 PM.jpeg'
+'WhatsApp Image 2021-02-15 at 11.41.36 AM.jpeg'
+'WhatsApp Image 2021-02-15 at 11.45.22 AM.jpeg'
+'WhatsApp Image 2021-02-15 at 11.45.23 AM (1).jpeg'
+'WhatsApp Image 2021-02-15 at 11.45.23 AM.jpeg'
+'WhatsApp Image 2021-02-15 at 11.59.18 AM (1).jpeg'
+'WhatsApp Image 2021-02-15 at 11.59.18 AM.jpeg'
+'WhatsApp Image 2021-02-15 at 11.59.19 AM.jpeg'
+'WhatsApp Image 2021-02-15 at 5.06.44 PM.jpeg'
+'WhatsApp Image 2021-03-04 at 9.44.58 AM (1).jpeg'
+'WhatsApp Image 2021-03-04 at 9.44.58 AM (2).jpeg'
+'WhatsApp Image 2021-03-04 at 9.44.58 AM (3).jpeg'
+'WhatsApp Image 2021-03-04 at 9.44.58 AM.jpeg'
+'WhatsApp Image 2021-03-17 at 11.29.40 AM (1).jpeg'
+'WhatsApp Image 2021-03-17 at 11.29.40 AM.jpeg'
+'WhatsApp Image 2021-03-17 at 9.08.40 PM (2).jpeg'
+'WhatsApp Image 2021-03-17 at 9.08.40 PM.jpeg'
+'WhatsApp Image 2021-03-22 at 4.37.43 PM.jpeg'
+'WhatsApp Image 2021-03-22 at 4.37.43 PM.jpeg~RF22ab2124.TMP'
+'WhatsApp Image 2021-03-22 at 4.37.44 PM.jpeg'
+'WhatsApp Image 2021-03-25 at 8.48.38 PM.jpeg'
+'WhatsApp Image 2021-03-25 at 8.48.39 PM.jpeg'
+'WhatsApp Image 2021-04-13 at 8.54.30 AM.jpeg'
+'WhatsApp Image 2021-04-18 at 10.46.47 PM (1).jpeg'
+'WhatsApp Image 2021-04-18 at 10.46.47 PM (2)-converted.pdf'
+'WhatsApp Image 2021-04-18 at 10.46.47 PM (2).jpeg'
+'WhatsApp Image 2021-04-18 at 10.46.47 PM.jpeg'
+'WhatsApp Image 2021-04-18 at 10.57.19 PM.jpeg'
+'WhatsApp Image 2021-04-27 at 3.02.57 PM.jpeg'
+'WhatsApp Image 2021-05-07 at 9.03.32 AM.jpeg'
+'WhatsApp Image 2021-05-07 at 9.03.33 AM.jpeg'
+'WhatsApp Image 2021-05-07 at 9.11.37 AM.jpeg'
+'WhatsApp Image 2021-05-07 at 9.19.59 AM.jpeg'
+'WhatsApp Image 2021-05-07 at 9.20.31 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.00.38 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.01.43 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.03.55 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.04.19 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.55.57 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 10.55.57 AM.pdf'
+'WhatsApp Image 2021-05-26 at 9.08.30 AM.jpeg'
+'WhatsApp Image 2021-05-26 at 9.08.31 AM.jpeg'
+'WhatsApp Image 2021-06-25 at 8.55.44 AM.jpeg'
+'WhatsApp Image 2021-06-25 at 8.55.45 AM (1).jpeg'
+'WhatsApp Image 2021-06-25 at 8.55.45 AM.jpeg'
+'WhatsApp Image 2021-07-09 at 10.06.47 AM.jpeg'
+'WhatsApp Image 2021-08-18 at 7.31.13 AM.jpeg'
+'WhatsApp Image 2021-08-18 at 7.31.13 AM_11zon.jpeg'
+'WhatsApp Image 2021-08-23 at 11.46.50 PM.jpeg'
+'WhatsApp Image 2021-10-21 at 9.45.31 AM.jpeg'
+'WhatsApp Image 2021-11-23 at 10.50.44 AM.jpeg'
+'WhatsApp Image 2021-12-20 at 10.30.37 PM.jpeg'
+'WhatsApp Image 2022-01-04 at 12.35.36 PM-min.jpeg'
+'WhatsApp Image 2022-01-04 at 12.35.36 PM-min_11zon (1).jpeg'
+'WhatsApp Image 2022-01-04 at 12.35.36 PM-min_11zon.jpeg'
+'WhatsApp Image 2022-01-04 at 12.35.36 PM.jpeg'
+'WhatsApp Unknown 2021-03-04 at 4.00.39 PM.zip'
+'WhatsApp Unknown 2021-06-25 at 9.38.11 AM.zip'
+'WhatsApp Unknown 2021-06-26 at 11.40.51 AM.zip'
+'WinRAR v5.70 - www.MySoftwareFree.com'/
+'Yeshwant Reddy Resume.pdf'
+'Yeshwanth Reddy Resume.pdf'
+ Yo.html
+ Yo_files/
+'[Windows]_THOPTV_v28_64bit.exe'*
+ _03706fa4ec5b661f1d6e17b43dad323c_Brand-Pyramid.docx
+ _DSC0135.JPG
+'_EngineeringHacks Autodesk AutoCAD 2021 Win64'/
+'_EngineeringHacks Autodesk AutoCAD 2021 Win64.rar'
+ _Getintopc.com_Adobe_Lightroom_Classic_2020_v9.0.0.10_Multilingual.zip
+ _a38713fe5dc9d72adcdee85e19a6e16f_Design-a-Marketing-Experiment-Sample-Report.pdf
+'_fbc259ecad060b52b870ad8ef7cfb507_Marketing-Analytics-Experiments-Calculations (1).xlsx'
+ _fbc259ecad060b52b870ad8ef7cfb507_Marketing-Analytics-Experiments-Calculations.xlsx
+'aadhar (1).pdf'
+ aadhar.pdf
+ altacv-template.pdf
+'amith (1).docx'
+ amith.docx
+ asetup_building-material-co_2845602800408.zip
+'assignment ques8.zip'
+'assignment ques9.zip'
+'assignment stiffness method_20181060_KavetiMaruthiAbhiram.pdf'
+'assignment stiffness method_Ashish K_2010041_CE-1.pdf'
+ astats.pdf
+'axially loaded columns.pdf'
+ b2f6ac27-ac07-40f9-90c1-0cb45182bfeb.tmp
+ bdcamsetup.exe*
+ btech5thsem.pdf
+'building materials (1).pdf'
+'building materials (2).pdf'
+'building materials (3).pdf'
+'building materials.pdf'
+ cand_joining.pdf
+ cavitation.pptx
+'ce15103 lecture419aug.mp4'
+'ce15103 lectureclass20aug.mp4'
+ ce_483_subsoil_exploration_40-41_i_ch_3.pdf
+ certificate.pdf
+ codeblocks-17.12-setup.exe*
+ codeblocks-17.12mingw-setup.exe*
+'concrete - 5 (1).pdf'
+'concrete - 5.pdf'
+'concrete lab assignment 4 (1).pdf'
+'concrete lab assignment 4.pdf'
+'concrete lab assignment 5 (1).pdf'
+'concrete lab assignment 5.pdf'
+'concrete lab assignment 8 (1).pdf'
+'concrete lab assignment 8.pdf'
+ contours_100.kml
+ contours_100.shx
+'crntrifugal pump.pdf'
+ cut4.mp4
+ data.zip
+ dcPrROGJQKqD60ThiRCqtg_38f6707e7c39444185b599af82691e0b_Test_your_solutions.pdf
+ debug.log
+ desktop.ini
+'determination of pH_1060.pdf'
+ dia-english-2159598/
+ dia-english-2159598.zip
+ dlscrib.com_estimating-and-costing-in-civil-engineering-free-download-bn-dutta.pdf
+ document.docx
+ download.jpg
+ drive-download-20201104T170035Z-001/
+ drive-download-20201104T170035Z-001.zip
+ drive-download-20201223T063549Z-001.zip
+ drive-download-20201223T063748Z-001/
+ drive-download-20201223T063748Z-001.zip
+ dxwebsetup.exe*
+ eDonation_DNI2301200920265.pdf
+ eclipse-inst-jre-win64.exe*
+ ecvtut.pdf
+ ef4cfc50-6654-4ce2-b495-1275a330ed72.tmp
+'elongation index.pdf'
+'environment 2lab assignment 4.pdf'
+'environment Engineering UNIT 1.pdf'
+'environment labassign3.pdf'
+ environment2labassignment.pdf
+ estimating-and-costing-in-civil-engineering.pdf
+'estimation and costing textbook by BN Dutta.pdf'
+ exam.png
+ fdocuments.in_elevated-express-highway-pvnr.pptx
+'fileInput (1).txt'
+'fileInput (2).txt'
+ fileInput.txt
+'flakiness index.pdf'
+'fm-2_assignment-5 Kaveti Maruthi Abhiram.pdf'
+ focus-on-what-matters-3840x2160.jpg
+'from sklearn.datasets import load_iris.py'
+'geoinformatics - 2.pdf'
+ geoinformaticsassgn-1.pdf
+ geophysical_method.pdf
+'geotechnical 2.pdf'
+'geotechnical lab2 assignment 1.pdf'
+ gesture_recognition.py
+ gold-2018_english-1871292.zip
+ gotham/
+ gotham.zip
+ hillshade/
+ hillshading_everest.tif
+'hs notes.pdf'
+ ilovepdf_compressed.zip
+'ilovepdf_merged (1).pdf'
+'ilovepdf_merged (2).pdf'
+ ilovepdf_merged.pdf
+ image004.jpg
+ images.jpeg
+ interstellar-2014-english-yify-242913.zip
+'interview prep.xlsx'
+'invite (1).ics'
+ invite.ics
+ iphone_4s_loud.mp3
+ iris.names
+ jdk-15.0.2_windows-x64_bin.exe*
+'jdk-17_windows-x64_bin (1).exe'*
+'jdk-17_windows-x64_bin (2).exe'*
+'jdk-17_windows-x64_bin (3).exe'*
+'jdk-17_windows-x64_bin (4).exe'*
+ jdk-17_windows-x64_bin.exe*
+ jp1.patch
+ jp2.patch
+ jp3.patch
+ katta.pdf
+'kaveti maruthi abhiram 20181060 ce2  geotech tutorial.pdf'
+'lec 05 (1).mp4'
+'lec 05.mp4'
+'lec 06.mp4'
+'lec 07.mp4'
+'lec 08.mp4'
+ lect18aug2020.mp4
+ lect25aug2020.mp4
+ lect26aug2020.mp4
+ lect27aug2020.mp4
+'lecture1 (2).pdf'
+ lecture1.pdf
+ lecture2_compressed.pdf
+ lecture3.pdf
+ lecture4.pdf
+ lecture5.pdf
+ lecture6.pdf
+ leoforce1.pdf
+ let213august.mp4
+ leture1.mp4
+ life-is-short-and-so-is-this-book-brief-thoughts-on-making-the-most-of-your-life-by-peter-atkins.pdf
+ linalg.pdf
+'line-graph (1).png'
+'line-graph (2).png'
+'line-graph (3).png'
+'line-graph (4).png'
+ line-graph.png
+ lulc1112.pdf
+ magazines_ebooks.pdf
+ management-11th-edn-by-stephen-p-robbins-mary-coulter-pdf-qwerty80-1.pdf
+ multiethnic-boys-backpacks-walking-together-along-road-returning-school-two-boys-walking-outdoors-159409401.jpg
+'new doc 2020-09-23 092533.pdf'
+'new doc 2020-09-23 093246.pdf'
+'nh 44 road shivarampally - Google Search - Google Chrome 01-09-2021 05_20_03 PM.png'
+ pct_trial_easeus.exe*
+ pctrans_trial_installer.exe*
+ pom2.pdf
+ postgresql-13.1-1-windows-x64.exe*
+ pycharm-community-2020.3.3.exe*
+ python-3.7.1-embed-amd64.zip
+ python-3.7.7-webinstall.exe*
+ python-3.8.10-amd64.exe*
+ python-3.8.4.exe*
+ python-3.8.7-amd64.exe*
+ python-3.9.1-amd64.exe*
+ python-3.9.5-amd64.exe*
+ quant.pdf
+'r k bansal-A Textbook of Fluid Mechanics and hydraulic machines- By EasyEngineering.net.pdf'
+'rdg _PPT_Pt-2 _Simple Compound Reverse.pdf'
+'read this.docx'
+ red-vector-illustration-banner-important-260nw-1470612779.jpg
+ rock_20181103_assignment4.pdf
+ sample.pdf
+ screenrecorder/
+'screenrecorder (1).zip'
+ screenrecorder.zip
+'sheet7_20180041_Ashish k.pdf'
+'sheet7_20181104_sumitkumar (1).pdf'
+ sheet7_20181104_sumitkumar-images/
+ sheet7_20181104_sumitkumar-images.zip
+ sheet7_20181104_sumitkumar.pdf
+ smart-cctv-tkinter-master/
+ smart-cctv-tkinter-master.zip
+ smart-cctv-ver2.0-main.zip
+ speech-emotion-recognition-ravdess-data.zip
+ spm_assgn04_20181060.pdf
+ sqlite-dll-win64-x64-3320200.zip
+ sqlite-dll-win64-x64-3320200_1236797170.exe*
+ sqlite-tools-win32-x86-3320300.zip
+ str_analysis_Home_Assign-01.pdf
+ stranls_20181060_arches.pdf
+ stranls_20181060_cables.pdf
+'survey activity 1(20181054).pdf'
+'surveycamp_act-02_20180041 (1).pdf'
+ surveycamp_act-02_20180041.pdf
+ surveycamp_act-02_group01_20181060.pdf
+ sustainability-12-01057-v2.pdf
+ t.png
+ tdhq62PPSCuYautjz_grzQ_de94f9532f004a819a9ae54a66b29f25_course1_2005062005/
+'tdhq62PPSCuYautjz_grzQ_de94f9532f004a819a9ae54a66b29f25_course1_2005062005 (1).zip'
+ tdhq62PPSCuYautjz_grzQ_de94f9532f004a819a9ae54a66b29f25_course1_2005062005.zip
+ test-11.pdf
+ toaz.info-case-interviews-cracked-entire-pr_a5b1ac7f3c95be3e09a9a176264dccc0.pdf
+'transportation assgn5 (1).pdf'
+'transportation assgn5 Ashish K CE01 20180041.pdf'
+'transportation assgn5.pdf'
+'transportation tut02 (1).pdf'
+'transportation tut02.pdf'
+ transportationassgn-1_20181060.pdf
+ transportationlab_exp-1.pdf
+ transportationlab_exp-2.pdf
+ tutorial_sheet_III_FM_II_CE_4th_sem.pdf
+ tutorial_sheet_I_FM_II_CE_4th_sem.pdf
+ ug-placements-details-ay-2019-2020_to-upload-in-website.pdf
+ ug_email_list_upload.pdf
+'undefined (1).cpp'
+'undefined (2).cpp'
+'undefined (2).exe'*
+'undefined (3).cpp'
+ undefined.cpp
+'unit 2.pdf'
+'video (1).mp4'
+'video (10).mp4'
+'video (11).mp4'
+'video (12).mp4'
+'video (13).mp4'
+'video (14).mp4'
+'video (15).mp4'
+'video (16).mp4'
+'video (17).mp4'
+'video (18).mp4'
+'video (19).mp4'
+'video (2).mp4'
+'video (20).mp4'
+'video (21).mp4'
+'video (22).mp4'
+'video (23).mp4'
+'video (24).mp4'
+'video (25).mp4'
+'video (26).mp4'
+'video (27).mp4'
+'video (28).mp4'
+'video (29).mp4'
+'video (3).mp4'
+'video (30).mp4'
+'video (31).mp4'
+'video (32).mp4'
+'video (33).mp4'
+'video (35).mp4'
+'video (36).mp4'
+'video (37).mp4'
+'video (38).mp4'
+'video (39).mp4'
+'video (4).mp4'
+'video (41).mp4'
+'video (44).mp4'
+'video (45).mp4'
+'video (5).mp4'
+'video (6).mp4'
+'video (7).mp4'
+'video (8).mp4'
+'video (9).mp4'
+ video.mp4
+'vivavoce15april2021-20210415_033237-Meeting Recording.mp4'
+ vlc-3.0.8-win32.exe*
+'water resources engineering_tut-02 Ashish K 20180041.pdf'
+'water resources engineering_tut-02.pdf'
+'water resources engineering_tut-03.pdf'
+'wre1_tut1_20181103(example).xlsx'
+ wre1_tut4_20180041.pdf
+ wre1_tut4_20181103.pdf
+ wre1_tut5_20180041.pdf
+ wre1_tut5_20181103.pdf
+ wre1_tut6_20180041.pdf
+'wre1_tut6_20181103 (1).pdf'
+ wre1_tut6_20181103.pdf
+ wwe_0c2b44d01cd9048f06adc901e0d16ac3.zip
+ xampp-windows-x64-7.2.34-0-VC15-installer.exe*
+O
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$ ls-la
+bash: ls-la: command not found
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$ cd 'GIT ZEMOSO'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git init
+Initialized empty Git repository in C:/Users/ashis/Downloads/GIT ZEMOSO/.git/
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git log
+fatal: your current branch 'master' does not have any commits yet
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add -A
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git commit -m "initial commit"
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ echo content > file
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add -m
+error: unknown switch `m'
+usage: git add [<options>] [--] <pathspec>...
+
+    -n, --dry-run         dry run
+    -v, --verbose         be verbose
+
+    -i, --interactive     interactive picking
+    -p, --patch           select hunks interactively
+    -e, --edit            edit current diff and apply
+    -f, --force           allow adding otherwise ignored files
+    -u, --update          update tracked files
+    --renormalize         renormalize EOL of tracked files (implies -u)
+    -N, --intent-to-add   record only the fact that the path will be added later
+    -A, --all             add changes from all tracked and untracked files
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)
+    --refresh             don't add, only refresh the index
+    --ignore-errors       just skip files which cannot be added because of errors
+    --ignore-missing      check if - even missing - files are ignored in dry run
+    --sparse              allow updating entries outside of the sparse-checkout cone
+    --chmod (+|-)x        override the executable bit of the listed files
+    --pathspec-from-file <file>
+                          read pathspec from file
+    --pathspec-file-nul   with --pathspec-from-file, pathspec elements are separated with NUL character
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add -A
+warning: LF will be replaced by CRLF in file.
+The file will have its original line endings in your working directory
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   file
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ echo content > file
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git commit -m "Initial committing"
+[master (root-commit) 34749ad] Initial committing
+ 1 file changed, 1 insertion(+)
+ create mode 100644 file
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git log
+commit 34749adb3d148b59f707594402b292a3cb8b3cb3 (HEAD -> master)
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 07:13:20 2022 +0530
+
+    Initial committing
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add -A
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git commit -m "y"
+On branch master
+nothing to commit, working tree clean
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$
