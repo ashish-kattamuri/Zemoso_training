@@ -1,0 +1,170 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ source setup.sh
+bash: setup.sh: No such file or directory
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ ls
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+'Hitman Nosteam'/
+ IBA_IOAPDATA/
+ IntelGraphicsProfiles/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TM.blf
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{c5dcee64-6a3c-11eb-80ef-eadd2e277a0c}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+'New folder'/
+ OneDrive/
+ PrintHood@
+ PycharmProjects/
+'Python Code.ipynb'
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Untitled.ipynb
+ Untitled1.ipynb
+ Untitled2.ipynb
+ Untitled3.ipynb
+ Videos/
+ anaconda3/
+ ansel/
+ eclipse/
+ eclipse-workspace/
+ jupyter
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ scikit_learn_data/
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ cd Downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$ cd "GIT ZEMOSO"
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ touch Kata2
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ touch file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ echo content > file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git diff
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git diff --staged
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add file.txt
+warning: LF will be replaced by CRLF in file.txt.
+The file will have its original line endings in your working directory
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git diff
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git diff --staged
+diff --git a/file.txt b/file.txt
+new file mode 100644
+index 0000000..d95f3ad
+--- /dev/null
++++ b/file.txt
+@@ -0,0 +1 @@
++content
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ echo 3>file.txt
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   file.txt
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   file.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Kata2
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git restore --staged file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Kata2
+        file.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add -A
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git log
+commit 34749adb3d148b59f707594402b292a3cb8b3cb3 (HEAD -> master)
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 07:13:20 2022 +0530
+
+    Initial committing
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ echo 4>file.txt
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ cat file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Kata2
+        new file:   file.txt
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git restore file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Kata2
+        new file:   file.txt
+
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$
