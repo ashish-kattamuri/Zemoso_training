@@ -1,0 +1,27 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~ (master)
+$ cd downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads (master)
+$ cd 2
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git checkout -b Mergesort-Impl
+Switched to a new branch 'Mergesort-Impl'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$ git branch
+* Mergesort-Impl
+  greeting
+  master
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$ git merge Mergesort-Impl master
+Already up to date.
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$ git mergetool --tool=emerge
+No files need merging
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$
