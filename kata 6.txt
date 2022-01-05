@@ -1,0 +1,31 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~ (master)
+$ cd downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads (master)
+$ cd 2
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git switch greeting
+Switched to branch 'greeting'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git merge greeting master
+Updating e333623..f23c6a8
+Fast-forward
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git status
+On branch greeting
+nothing to commit, working tree clean
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git log --oneline --graph
+* f23c6a8 (HEAD -> greeting, master) YR
+* e333623 Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$
