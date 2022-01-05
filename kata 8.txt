@@ -1,0 +1,67 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~ (master)
+$ cd downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads (master)
+$ cd 2
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$ git log
+commit f23c6a87d4f1c38b453ee40f07bb00b71aa56afe (HEAD -> Mergesort-Impl, master, greeting)
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:11:22 2022 +0530
+
+    YR
+
+commit e333623728e7530695558cbd52f55f5aaa621680
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:09:55 2022 +0530
+
+    Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (Mergesort-Impl)
+$ git checkout -b uppercase
+Switched to a new branch 'uppercase'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (uppercase)
+$ git log
+commit f23c6a87d4f1c38b453ee40f07bb00b71aa56afe (HEAD -> uppercase, master, greeting, Mergesort-Impl)
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:11:22 2022 +0530
+
+    YR
+
+commit e333623728e7530695558cbd52f55f5aaa621680
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:09:55 2022 +0530
+
+    Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (uppercase)
+$ git rebase master
+Current branch uppercase is up to date.
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (uppercase)
+$ git switch master
+Switched to branch 'master'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git merge uppercase master
+Already up to date.
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git log
+commit f23c6a87d4f1c38b453ee40f07bb00b71aa56afe (HEAD -> master, uppercase, greeting, Mergesort-Impl)
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:11:22 2022 +0530
+
+    YR
+
+commit e333623728e7530695558cbd52f55f5aaa621680
+Author: Ashish <ashish.kattamuri@zemosolabs.com>
+Date:   Wed Jan 5 09:09:55 2022 +0530
+
+    Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$
