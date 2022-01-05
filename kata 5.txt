@@ -1,0 +1,100 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~ (master)
+$ cd downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads (master)
+$ cd 2
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git init
+Initialized empty Git repository in C:/Users/ashis/Downloads/2/.git/
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git checkout master
+error: pathspec 'master' did not match any file(s) known to git
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git branch greeting
+fatal: Not a valid object name: 'master'.
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git checkout master
+error: pathspec 'master' did not match any file(s) known to git
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git checkout -b foo
+Switched to a new branch 'foo'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (foo)
+$ git checkout -b greeting
+Switched to a new branch 'greeting'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ touch greeting.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ echo Namaste > greeting.tx
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ echo Namaste.txt > greeting.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git add -A
+warning: LF will be replaced by CRLF in greeting.tx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in greeting.txt.
+The file will have its original line endings in your working directory
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git commit -m "Y"
+[greeting (root-commit) e333623] Y
+ 2 files changed, 2 insertions(+)
+ create mode 100644 greeting.tx
+ create mode 100644 greeting.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git switch master
+fatal: invalid reference: master
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (greeting)
+$ git checkout -b master
+Switched to a new branch 'master'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ touch README.md
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git add README.md
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git commit -m
+error: switch `m' requires a value
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git commit -m "YR"
+[master f23c6a8] YR
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 README.md
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git log --oneline --graph --all
+* f23c6a8 (HEAD -> master) YR
+* e333623 (greeting) Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git diff master greeting
+diff --git a/README.md b/README.md
+deleted file mode 100644
+index e69de29..0000000
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git merge greeting master
+Already up to date.
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$ git log --oneline --graph --all
+* f23c6a8 (HEAD -> master) YR
+* e333623 (greeting) Y
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/downloads/2 (master)
+$
