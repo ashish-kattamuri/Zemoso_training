@@ -1,0 +1,114 @@
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~
+$ cd Downloads
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads (master)
+$ cd "GIT ZEMOSO"
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ touch kata3.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git branch
+* master
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git branch mybranch
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git branch
+* master
+  mybranch
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git switch mybranch
+Switched to branch 'mybranch'
+A       Kata2
+D       file
+A       file.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ touch file1.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ git add -A
+warning: LF will be replaced by CRLF in kata 1.
+The file will have its original line endings in your working directory
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ git commit -m "Yes"
+[mybranch 2f3599c] Yes
+ 5 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Kata2
+ create mode 100644 file.txt
+ create mode 100644 file1.txt
+ rename file => kata 1 (100%)
+ create mode 100644 kata3.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ git log --oneline --graph
+* 2f3599c (HEAD -> mybranch) Yes
+* 34749ad (master) Initial committing
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ git switch master
+Switched to branch 'master'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git log --oneline --graph
+* 34749ad (HEAD -> master) Initial committing
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ touch file2.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git commit -m "YEAH"
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file2.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git add file2.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git commit -m "Y"
+[master 5c2733b] Y
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 file2.txt
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git log --oneline --graph --all
+* 5c2733b (HEAD -> master) Y
+| * 2f3599c (mybranch) Yes
+|/
+* 34749ad Initial committing
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (master)
+$ git switch mybranch
+Switched to branch 'mybranch'
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$ git diff mybranch master
+diff --git a/kata 1 b/file
+similarity index 100%
+rename from kata 1
+rename to file
+diff --git a/file.txt b/file.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/file1.txt b/file1.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/Kata2 b/file2.txt
+similarity index 100%
+rename from Kata2
+rename to file2.txt
+diff --git a/kata3.txt b/kata3.txt
+deleted file mode 100644
+index e69de29..0000000
+
+ashis@LAPTOP-SBIS0IUF MINGW64 ~/Downloads/GIT ZEMOSO (mybranch)
+$
